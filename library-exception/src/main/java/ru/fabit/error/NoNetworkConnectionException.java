@@ -1,4 +1,4 @@
-package ru.parking.error;
+package ru.fabit.error;
 
 
 public class NoNetworkConnectionException extends Exception {

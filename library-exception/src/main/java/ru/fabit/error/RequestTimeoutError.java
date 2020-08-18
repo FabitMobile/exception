@@ -1,4 +1,4 @@
-package ru.parking.error;
+package ru.fabit.error;
 
 
 public class RequestTimeoutError extends Exception {
