@@ -1,3 +1,2 @@
 include ':library-exception'
-include ':app'
 rootProject.name = "exception"
